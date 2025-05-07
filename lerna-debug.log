@@ -1,8 +1,4 @@
-17 error Error: Command failed with exit code 1: git remote update
-17 error fatal: unable to access 'https://github.com/2780878002/style-lint.git/': Recv failure: Connection was aborted
-17 error     at makeError (D:\liuwenhong\xiangmu\qita\style-lint\node_modules\.pnpm\execa@5.0.0\node_modules\execa\lib\error.js:59:11)
-17 error     at module.exports.sync (D:\liuwenhong\xiangmu\qita\style-lint\node_modules\.pnpm\execa@5.0.0\node_modules\execa\index.js:186:17)
-17 error     at Object.execSync (D:\liuwenhong\xiangmu\qita\style-lint\node_modules\.pnpm\@lerna+child-process@6.6.2\node_modules\@lerna\child-process\index.js:39:16)
-17 error     at updateRemote (D:\liuwenhong\xiangmu\qita\style-lint\node_modules\.pnpm\lerna@6.6.2_encoding@0.1.13\node_modules\lerna\dist\cli.js:5910:22)
-17 error     at isBehindUpstream (D:\liuwenhong\xiangmu\qita\style-lint\node_modules\.pnpm\lerna@6.6.2_encoding@0.1.13\node_modules\lerna\dist\cli.js:5900:7)
-17 error     at VersionCommand.initialize (D:\liuwenhong\xiangmu\qita\style-lint\node_modules\.pnpm\lerna@6.6.2_encoding@0.1.13\node_modules\lerna\dist\cli.js:6235:57)
+44 error Error: Command failed with exit code 128: git push --follow-tags --no-verify --atomic origin main
+44 error fatal: unable to access 'https://github.com/2780878002/style-lint.git/': Recv failure: Connection was aborted
+44 error     at makeError (D:\liuwenhong\xiangmu\qita\style-lint\node_modules\.pnpm\execa@5.0.0\node_modules\execa\lib\error.js:59:11)
+44 error     at handlePromise (D:\liuwenhong\xiangmu\qita\style-lint\node_modules\.pnpm\execa@5.0.0\node_modules\execa\index.js:114:26)
