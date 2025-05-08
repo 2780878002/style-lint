@@ -1,6 +1,6 @@
 {
   "name": "markdownlint-config",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "markdown",
   "keywords": [
     "md"
@@ -28,5 +28,6 @@
   },
   "peerDependencies": {
     "markdownlint-cli": "^0.28.1"
-  }
+  },
+  "gitHead": "aedcca24de05a107e263982b9166428133e7daf5"
 }

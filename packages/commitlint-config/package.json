@@ -1,6 +1,6 @@
 {
   "name": "commitlint-config",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "commitlint",
   "keywords": [
     "commit"
@@ -31,5 +31,6 @@
   },
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^4.5.0"
-  }
+  },
+  "gitHead": "aedcca24de05a107e263982b9166428133e7daf5"
 }
